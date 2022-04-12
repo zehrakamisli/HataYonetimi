@@ -48,6 +48,10 @@ namespace Hata_yonetimi
                 Console.WriteLine("Çok küçük yada çok büyük değer girdiniz...");
                 Console.WriteLine(ex);
             }
+            finally
+            {
+                Console.WriteLine("İşlemler Tamamlandı...");
+            }
             
             Console.ReadLine();
 
