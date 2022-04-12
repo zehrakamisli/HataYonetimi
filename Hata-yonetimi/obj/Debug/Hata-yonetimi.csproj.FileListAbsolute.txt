@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\bin\Debug\Hata-yonetimi.exe.config
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\bin\Debug\Hata-yonetimi.exe
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\bin\Debug\Hata-yonetimi.pdb
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\obj\Debug\Hata-yonetimi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\obj\Debug\Hata-yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\obj\Debug\Hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\obj\Debug\Hata-yonetimi.exe
+C:\Users\LENOVO\source\repos\Hata-yonetimi\Hata-yonetimi\obj\Debug\Hata-yonetimi.pdb
